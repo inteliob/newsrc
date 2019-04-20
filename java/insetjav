@@ -16,3 +16,7 @@ class AddNumbers
       System.out.println("Sum of the integers = " + z);
    }
 }
+x=1
+y=2
+z=3
+
