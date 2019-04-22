@@ -1,0 +1,4 @@
+Navigate to Apple's Warranty Status page.
+Enter your device's serial number into the text field.
+Enter the CAPTCHA code to confirm that you are human.
+Click Continue.
